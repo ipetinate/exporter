@@ -1,0 +1,16 @@
+{
+  "name": "exporter",
+  "version": "1.0.0",
+  "repository": "https://github.com/ipetinate/exporter.git",
+  "author": "Isac Petinate <ipetinate@viceri.com.br>",
+  "description": "Exporter files in JS",
+  "main": "./src/main.js",
+  "scripts": {
+    "lint": "eslint ./src/**/*.js"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "eslint": "^6.1.0"
+  }
+}
